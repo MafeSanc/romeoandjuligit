@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head></head>
+    <head>
+        <title>Romeo and Juligit</title>
+    </head>
 <body>
-
+    <h1>This is a Shakespeare scene</h1>
 SCENE 1
 
 Mafe: Hey Pulkit, What are you up to? 
