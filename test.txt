@@ -1,8 +1,8 @@
 SCENE 1
 
 Mafe: Hey Pulkit, What are you up to? 
-Person_two: Mafe, it finally worked!
+Mafe: Mafe, it finally worked!
 Mafe: weeee!
-Person_two: Let's make sure it's really working.
-Person_one: It works!!!! 
-Person_two: And, so begins the magical tale of technology.
+Pulkit: Let's make sure it's really working.
+Mafe: It works!!!! 
+Pulkit: And, so begins the magical tale of technology.
