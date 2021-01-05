@@ -6,17 +6,18 @@
 <body>
     <h1>This is a Shakespeare scene</h1>
 SCENE 1
-
-Mafe: Hey Pulkit, What are you up to? 
+    <p>
+Mafe: Hey Pulkit, What are you up to? <br>
 Mafe: Mafe, it finally worked!
 Mafe: weeee!
-Pulkit: Let's make sure it's really working.
-Mafe: It works!!!! 
-Pulkit: And, so begins the magical tale of technology.
+Pulkit: Let's make sure it's really working. <br>
+Mafe: It works!!!! <br>
+Pulkit: And, so begins the magical tale of technology.<br>
         :) ;) :)
-Mafe: What are you doing? This is serious. 
-Pulkit: I'm hungry!!! 
-Mafe: Intermittent fasting is the way.
-Pulkit: True dat.
+Mafe: What are you doing? This is serious. <br>
+Pulkit: I'm hungry!!! <br>
+Mafe: Intermittent fasting is the way. <br>
+Pulkit: True dat. <br>
+    </p>
 </body>
 </html>
